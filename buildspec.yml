@@ -6,8 +6,8 @@ phases:
       - echo Nothing to do yet
 artifacts:
   files:
-    -index.html
-    -favicon.ico
-    -ahmed_farghaly.pdf
-    -styles/main.css
-    -images/*
+    - index.html
+    - favicon.ico
+    - ahmed_farghaly.pdf
+    - styles/main.css
+    - images/*
